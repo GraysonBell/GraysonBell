@@ -1,5 +1,5 @@
-# 💫 About Me:
-## Hola 👋<br><br>![planet-volumes-awYEQyYdHVE-unsplash](https://github.com/user-attachments/assets/acc93d7c-7711-4284-9f4d-e08fa5745068)<br><br>📫 How to reach me: graysonjarodbell@gmail.com<br>🗿 I’m currently working on app and web development<br>🌋 I’m currently learning javascript, java and c++<br>🔱 I’m looking to collaborate on anything in astrophysics, nuclear physics<br>🚀 I’m looking for help with astrophysics<br>🌌 Ask me about anything<br>🔭 Fun fact: I love cosmology
+# About Me:
+## Hola 👋<br><br>![planet-volumes-awYEQyYdHVE-unsplash](https://github.com/user-attachments/assets/acc93d7c-7711-4284-9f4d-e08fa5745068)<br><br>How to reach me: graysonjarodbell@gmail.com<br>I’m currently working on app and web development<br>I’m currently learning javascript, java and c++<br>I’m looking to collaborate on anything in astrophysics, nuclear physics<br>I’m looking for help with astrophysics<br>Ask me about anything<br>Fun fact: I love cosmology
 
 
 ## 🌐 Socials:
